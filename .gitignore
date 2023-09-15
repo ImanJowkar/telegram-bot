@@ -1,0 +1,10 @@
+.env
+vnev/
+venv/
+__pycache__
+archive/
+test-bot.session
+test-bot.session-journal
+app.py
+crypto_data-fake.py
+send_mail.py
